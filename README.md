@@ -15,9 +15,6 @@ I love solving complex problems and applying mathematics to real-world data chal
 - **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy  
 - **Other Tools:** Git, Docker, Jupyter Notebook, Linux  
 
-## 📂 Featured Projects  
-🔹 **[Project Name](GitHub Repo Link)** - Short description of a key project  
-🔹 **[Project Name](GitHub Repo Link)** - Another interesting project  
 
 ## 📫 Let's Connect!  
 https://www.linkedin.com/in/lucie-agnello-32a6641a7/ | lucie1.agnello@icloud.com
