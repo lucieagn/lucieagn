@@ -27,6 +27,4 @@ https://www.linkedin.com/in/lucie-agnello-32a6641a7/ | lucie1.agnello@icloud.com
 🚀 Data Science & Applied Mathematics | Passionate about AI & Machine Learning  
 🎓 M2 Mathematical Engineering | Probabilistic Modeling | Optimization  
 📊 Data Analysis | Deep Learning | Stochastic Processes  
-💡 Always learning, exploring, and building new projects!  
-📫 Reach me: [Your Email or LinkedIn]  
-
+💡 Always learning, exploring, and building new projects! 
